@@ -1,6 +1,6 @@
 # Lisa
 
-This is a non-isolated buck-boost converter based on the MSP430F1132.
+This is a non-isolated buck converter based on the MSP430G2 family.
 
 ## Getting Started
 
